@@ -150,4 +150,4 @@ The API provides clear error messages for:
 
 ## License
 
-MIT License
+No License
